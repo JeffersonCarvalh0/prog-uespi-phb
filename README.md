@@ -2,7 +2,7 @@
 Repositório com exercícios e soluções de problemas de programação.
 
 # Lista de problemas
-## Muito fáceis
+# Muito fáceis
 ### Implementação
 * [Next Round](http://codeforces.com/problemset/problem/158/A)
 
@@ -14,7 +14,7 @@ Repositório com exercícios e soluções de problemas de programação.
 * [Way too Long Words](http://codeforces.com/problemset/problem/71/A)
 * [String Task](http://codeforces.com/problemset/problem/118/A)
 
-## Fáceis
+# Fáceis
 ### Estrutura de dados
 * [Registration System](http://codeforces.com/problemset/problem/4/C)
 
