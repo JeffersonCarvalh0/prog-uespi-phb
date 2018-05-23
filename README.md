@@ -20,7 +20,7 @@ Repositório com exercícios e soluções de problemas de programação.
 
 ### Grafos
 * [Cyclic Components](http://codeforces.com/problemset/problem/977/E)
-* [Divide by three, multiply by two](http://codeforces.com/problemset/problem/977/D) - Também se resolve com matemática
+* [Two Buttons](http://codeforces.com/problemset/problem/520/B) - Também se resolve com matemática
 
 ### Matemática
 * [Buttons](http://codeforces.com/problemset/problem/268/B)
