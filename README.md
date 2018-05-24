@@ -13,6 +13,7 @@ Repositório com exercícios e soluções de problemas de programação.
 ### Strings
 * [Way too Long Words](http://codeforces.com/problemset/problem/71/A)
 * [String Task](http://codeforces.com/problemset/problem/118/A)
+* [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
 
 # Fáceis
 ### Estrutura de dados
