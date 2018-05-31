@@ -19,6 +19,9 @@ Repositório com exercícios e soluções de problemas de programação.
 ### Estrutura de dados
 * [Registration System](http://codeforces.com/problemset/problem/4/C)
 
+### Geometria
+* [Parallelepied](http://codeforces.com/problemset/problem/224/A)
+
 ### Grafos
 * [Cyclic Components](http://codeforces.com/problemset/problem/977/E)
 * [Two Buttons](http://codeforces.com/problemset/problem/520/B) - Também se resolve com matemática
